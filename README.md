@@ -41,13 +41,19 @@
 ##  GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Kishore-R45&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kishore-R45&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kishore-R45&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kishore-R45&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kishore-R45&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kishore-R45&theme=tokyonight" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kishore-R45&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kishore-R45&theme=tokyonight&utcOffset=5.5" />
+</p>
+
 
 ---
 
@@ -78,7 +84,7 @@
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   <a href="https://kishore-portfolio-45.netlify.app/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=web" />
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/portfolio.png" width="48"/>
   </a>
 </p>
 
