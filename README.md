@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Kishore</h1>
+<h1 align="center">Hi , I'm Kishore</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Engineering+Student+%7C+Java+Developer;DSA+%26+Backend+Enthusiast;Daily+LeetCode+Practitioner;Future+Software+Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Software+Engineer+%7C+Java+Developer;DSA+%26+Backend+Enthusiast;Problem+Solver" />
 </p>
 
 <p align="center">
@@ -13,10 +13,9 @@
 ##  About Me
 
 -  B.Tech Information Technology student  
--  Strong in **Java, OOP, and Data Structures**
+-  Strong in **Java, OOP, DBMS, and Data Structures**
 -  Solving **DSA problems daily on LeetCode**
 -  Learning **System Design & Gen AI fundamentals**
--  Belief: *Consistency beats talent every time*
 
 ---
 
