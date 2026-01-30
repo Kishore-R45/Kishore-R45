@@ -5,22 +5,22 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Kishore-R45&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-- 🎓 B.Tech Information Technology student  
-- 💻 Strong in **Java, OOP, and Data Structures**
-- 🧠 Solving **DSA problems daily on LeetCode**
-- 🌱 Learning **System Design & Gen AI fundamentals**
-- ⚡ Belief: *Consistency beats talent every time*
+-  B.Tech Information Technology student  
+-  Strong in **Java, OOP, and Data Structures**
+-  Solving **DSA problems daily on LeetCode**
+-  Learning **System Design & Gen AI fundamentals**
+-  Belief: *Consistency beats talent every time*
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### 💻 Languages
 <p>
@@ -29,57 +29,57 @@
 
 ### 🌐 Web & Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,spring,mysql" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,mysql,spring" />
 </p>
 
 ### 🧰 Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=git,vscode,postman,androidstudio,docker" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Kishore-R45&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kishore-R45&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kishore-R45&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🧠 LeetCode Stats (Daily Submissions)
+##  LeetCode Stats (Daily Submissions)
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Karma&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/Kishore2006_30?theme=dark&font=Karma&ext=heatmap" />
 </p>
 
 ---
 
-## 📌 What I’m Focusing On Now
+##  What I’m Focusing On Now
 
-- ✅ Mastering **Core Java + OOP**
-- ✅ Strong grip on **DSA (Arrays → Trees → Graphs)**
-- ⏳ Backend Development with **Spring Boot**
-- 🚀 Placement-oriented problem solving
+-  Mastering **Generative AI**
+-  Strong grip on **DSA (DP, Graphs)**
+-  Backend Development with **Spring Boot**
+-  Placement-oriented problem solving
 
 ---
 
-## 🤝 Connect With Me
+##  Connect With Me
 
 <p>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <a href="https://www.linkedin.com/in/kishore-r45" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:kishoreramesh302006@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://kishore-portfolio-45.netlify.app/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html" />
   </a>
 </p>
 
----
-
-### ⭐ *If you like this profile, consider giving a follow!*
