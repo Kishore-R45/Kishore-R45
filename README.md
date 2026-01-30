@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Kishore</h1>
+<h1 align="center">Hi , I'm Kishore R</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Software+Engineer+%7C+Java+Developer;DSA+%26+Backend+Enthusiast;Problem+Solver" />
@@ -51,7 +51,7 @@
 
 ---
 
-##  LeetCode Stats (Daily Submissions)
+##  LeetCode Stats
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Kishore2006_30?theme=dark&font=Karma&ext=heatmap" />
@@ -78,7 +78,7 @@
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   <a href="https://kishore-portfolio-45.netlify.app/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html" />
+    <img src="https://skillicons.dev/icons?i=web" />
   </a>
 </p>
 
