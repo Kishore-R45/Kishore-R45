@@ -35,21 +35,12 @@
 
 ---
 
-##  GitHub Stats
+##  GitHub Activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kishore-R45&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Kishore-R45&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kishore-R45&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kishore-R45&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kishore-R45&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kishore-R45&theme=tokyonight&utcOffset=5.5" />
-</p>
 
 
 ---
