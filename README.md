@@ -74,7 +74,7 @@
 
 ## 🤝 Connect With Me
 <p>
-  🌐 Portfolio: <a href="https://YOUR_PORTFOLIO_LINK" target="_blank"><b>https://YOUR_PORTFOLIO_LINK</b></a>
+  🌐 Portfolio: <a href="https://kishore-portfolio-45.netlify.app" target="_blank"><b>https://YOUR_PORTFOLIO_LINK</b></a>
 </p>
 
 <p>
