@@ -7,7 +7,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 - B.Tech Information Technology student  
 - Strong in **Java, OOP, and Data Structures**
@@ -17,26 +17,26 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 💻 Languages
+### Languages
 <p>
   <img src="https://skillicons.dev/icons?i=java,python,c,mysql" />
 </p>
 
-### 🌐 Web & Backend
+### Web & Backend
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb" />
 </p>
 
-### 🧰 Tools & Platforms
+### Tools & Platforms
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,androidstudio" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 
 <p align="center">
@@ -49,7 +49,7 @@
 
 ---
 
-## 🧠 LeetCode Stats
+## LeetCode Stats
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Kishore2006_30?theme=dark&font=Karma&ext=heatmap" />
@@ -59,7 +59,7 @@
 
 ---
 
-## 📌 What I’m Focusing On Now
+## What I’m Focusing On Now
 
 - Mastering **Core Java + OOP**
 - Strong grip on **DSA (Arrays → Trees → Graphs)**
@@ -68,7 +68,7 @@
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 <p>
   🌐 Portfolio: <a href="https://kishore-portfolio-45.netlify.app" target="_blank"><b>Click Here</b></a>
 </p>
